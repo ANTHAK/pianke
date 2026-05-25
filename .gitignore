@@ -46,7 +46,6 @@ job-*.log
 # ===== IDE / OS =====
 .DS_Store
 .idea/
-.vscode/
 *.swp
 *.swo
 
@@ -61,3 +60,7 @@ job-*.log
 
 # 内部审计 / 设计文档，不入库
 docs/
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
